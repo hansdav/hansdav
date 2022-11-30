@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Hans, and I'm an English teacher learning front-end (and full-stack, at some point) web development 🌱!
+- 👋 Hi, I’m Hans, a budding full-stack web developer 🌱!
